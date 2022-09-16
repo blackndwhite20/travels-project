@@ -4,9 +4,9 @@ function App() {
   return (
     <div>
       <h1>Travel plans</h1>
-      <Trip />
-      <Trip />
-      <Trip />
+      <Trip name="Malta" />
+      <Trip name="Adriatic Sea Sailing" />
+      <Trip name="Crete" />
     </div>
   );
 }
