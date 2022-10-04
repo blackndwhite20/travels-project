@@ -1,4 +1,6 @@
 import Trip from "./components/Trip";
+import Modal from "./components/Modal";
+import BackdropGrey from "./components/BackdropGrey";
 
 function App() {
   return (
